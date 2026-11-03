@@ -6,7 +6,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=70&lines=I'm+Hong+Nguyen%2C+IT+Manager%2C+IoT+Engineer%2C+System+Admin%2C;+Fullstack+Developer+%26+Embedded+Systems+Specialist+%F0%9F%98%89" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=70&lines=I'm+Phuoc+Loc%2C+Backend+%26+Fullstack+Developer%F0%9F%90%A7;+Specialized+in+Node.js%2C+Java+Spring+Boot%2C+Next.js+%26+React+Native%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 - 🚀 **IT Manager & Fullstack Developer** with a strong background in **IoT, Embedded Systems, and System Administration**.
 - 🌱 Currently pursuing an **MBA (Master of Business Administration)** to enhance strategic leadership and business management.
