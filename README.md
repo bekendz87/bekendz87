@@ -74,15 +74,22 @@
 
 <br/>
 
-## Github Stats
+## 🚀 Featured Projects
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bekendz87&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Backend Microservices System** | Java Spring Boot, Node.js, MySQL, Redis | Developing distributed backend architectures, optimizing query performance, and handling high-speed APIs. |
+| **AI Text-to-Speech Integration** | Python, FastAPI, Microservices | Building service components integrated with AI models and audio stream processing pipelines. |
+| **Web Administration Platform** | Next.js, React, Tailwind CSS | Designing high-performance administrative dashboards with clean user experience and seamless CRUD operations. |
+| **Cross-Platform Mobile App** | React Native, Expo | Creating smooth cross-platform mobile applications integrated with real-world practical features. |
 
 <br/>
 
-## Most used languages
+## 🧠 Architecture & Engineering Mindset
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekendz87&layout=compact" align="center" /></div>
+- **Scalable Microservices:** Designing distributed systems, building flexible and easily extensible RESTful APIs.
+- **Clean & Maintainable Code:** Strictly applying SOLID principles, Clean Architecture, and Design Patterns.
+- **Database Optimization:** Optimizing complex query execution, indexing, and effectively managing relational/non-relational databases (MySQL, PostgreSQL, SQL Server).
 
 <br/>
 
