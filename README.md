@@ -96,7 +96,7 @@
 ## Buy Me A Coffee
 
 <div align="center">
-<p><a href="https://www.buymeacoffee.com/bekendz87"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bekendz87" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/locdtp0807g"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bekendz87" /></a></p><br><br>
 </div>
 <br/>
 
