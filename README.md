@@ -74,7 +74,7 @@
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -85,7 +85,7 @@
 
 <br/>
 
-## 🧠 Architecture & Engineering Mindset
+## Architecture & Engineering Mindset
 
 - **Scalable Microservices:** Designing distributed systems, building flexible and easily extensible RESTful APIs.
 - **Clean & Maintainable Code:** Strictly applying SOLID principles, Clean Architecture, and Design Patterns.
